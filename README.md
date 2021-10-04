@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anweshapal" target="blank"><img src="https://img.shields.io/twitter/follow/anweshapal?logo=twitter&style=for-the-badge" alt="anweshapal" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Anoushka-Ghosh/Anoushka-Ghosh/main/code.gif">
 - 🔭 I’m currently working on **Open Source contribution**
 
 - ⚡ Fun fact **I think i'm funny XD**
